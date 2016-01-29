@@ -11,5 +11,3 @@ even longer
 [link example](http://google.com/ "Google link")
 
 ![Image example](DBCImage.png "Image title")
-
-Master changes test conflict
