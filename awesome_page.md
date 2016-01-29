@@ -12,4 +12,4 @@ even longer
 
 ![Image example](DBCImage.png "Image title")
 
-Master changes test
+Master changes test conflict
